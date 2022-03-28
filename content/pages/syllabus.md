@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: 56951eb6-279d-ecd4-04ce-af89d831cf5d
 ---
@@ -16,10 +17,10 @@ Lectures: 1 session / week, 3 hours / session
 Work Expectations
 -----------------
 
-1.  In time for Lec #3, choose a candid family photograph and write a response/interpretation/reading of the photo. For detailed instructions, please see [assignments]({{< baseurl >}}/pages/assignments).
+1.  In time for Lec #3, choose a candid family photograph and write a response/interpretation/reading of the photo. For detailed instructions, please see {{< resource_link fc161d0b-b193-fa65-65b3-5fc38f773438 "assignments" >}}.
 2.  Do a "factoid" presentation, a 10 minute explication or paraphrase or account of an assigned reading or historical moment. The topics are predetermined; during the first (or possibly second) class period, we'll draw lots to determine who gets which, and when. Depending on class population, we may do more than one factoid each, or we may re-organize the schedule a bit.
-3.  For Lec #9, our address to John Steinbeck's novel _The Grapes of Wrath_ and John Ford's film of same name will be organized by four presentations, one by each team, each with a different topic. For detailed instructions, please see [assignments]({{< baseurl >}}/pages/assignments).
-4.  You're the curator: We'll be talking about choices, and about style as a principle of choice - not only in individual verbal and visual texts, but also in the sequencing of packets of information (images, sentences, phrases, photos, organizing structures within formal units). Your assignment is to find an archive and edit it. For detailed instructions, please see [assignments]({{< baseurl >}}/pages/assignments).
+3.  For Lec #9, our address to John Steinbeck's novel _The Grapes of Wrath_ and John Ford's film of same name will be organized by four presentations, one by each team, each with a different topic. For detailed instructions, please see {{< resource_link fc161d0b-b193-fa65-65b3-5fc38f773438 "assignments" >}}.
+4.  You're the curator: We'll be talking about choices, and about style as a principle of choice - not only in individual verbal and visual texts, but also in the sequencing of packets of information (images, sentences, phrases, photos, organizing structures within formal units). Your assignment is to find an archive and edit it. For detailed instructions, please see {{< resource_link fc161d0b-b193-fa65-65b3-5fc38f773438 "assignments" >}}.
 
 Grading
 -------

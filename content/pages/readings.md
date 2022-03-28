@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: 17cc1541-a940-e640-a281-083c4e1d1428
 ---
@@ -275,7 +276,7 @@ Steinbeck, John. _The Grapes of Wrath_.
   
 Film: _[The Grapes of Wrath](http://www.imdb.com/title/tt0032551/)_. Directed by John Ford. 1940.  
   
-For instructions for team presentations, please see [assignments]({{< baseurl >}}/pages/assignments).
+For instructions for team presentations, please see {{< resource_link fc161d0b-b193-fa65-65b3-5fc38f773438 "assignments" >}}.
 
 
 {{< tdclose >}}
