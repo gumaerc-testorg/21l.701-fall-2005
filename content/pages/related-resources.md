@@ -29,7 +29,7 @@ Benjamin, Walter. [*The Work of Art in an Era of Mechanical Reproduction*](http:
 
 [Farm Security Administration/Office of War Information - Library of Congress](http://memory.loc.gov/ammem/fsowhome.html)
 
-[Japanese American Relocation Digital Archives](http://jarda.cdlib.org/) (except Library of Congress) for instance: Ikaru Iwasaki, Dorothea Lange.
+[Japanese American Relocation Digital Archives](https://calisphere.org/exhibitions/t11/jarda/) (except Library of Congress) for instance: Ikaru Iwasaki, Dorothea Lange.
 
 [Japanese Americans' Internment by Ansel Adams, Library of Congress](http://memory.loc.gov/ammem/aamhtml/aamhome.html)
 
