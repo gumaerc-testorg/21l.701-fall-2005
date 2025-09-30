@@ -16,7 +16,7 @@ In time for Lec #3, choose a candid family photograph. You - an earlier version 
 Team Presentations
 ------------------
 
-For Lec #9, each team of students was asked to show 5-10 minutes of John Ford's 1940 film _[The Grapes of Wrath](http://www.imdb.com/title/tt0032551/)_ and teach the class about the following topics:
+For Lec #9, each team of students was asked to show 5-10 minutes of John Ford's 1940 film _{{% resource_link "ebee0218-6ac7-4fbf-8a5a-a8091a82a85d" "The Grapes of Wrath" %}}_ and teach the class about the following topics:
 
 *   Team 1: The differences between the novel and the film in terms of politics.
 *   Team 2: Why the film omits the "inter-chapters." How does Ford compensate (or does he?) to achieve the effects of the generalizing inter-chapters? Or do you conclude that the purposes of the film and the novel are simply different?
